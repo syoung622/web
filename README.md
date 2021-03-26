@@ -6,3 +6,7 @@
 * 자기소개 페이지(aboutme.html)
 * 사진 페이지(photo.html)
 * 현재시간보기(TodayServlet http://localhost:8090/aboutme/today)
+
+Tool
+-Eclipse
+-Tomcat
